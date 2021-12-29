@@ -1,3 +1,3 @@
-# Filters
+#Basic FIR
 
-This repository is made to house many filters implemented in Verilog, mostly FIR and IIR Filter implementations.
+This is a basic FIR Filter, a 3 tap filter set up to be modified to whatever it needs to be setup as.
